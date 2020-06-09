@@ -33,7 +33,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = " \033[1;92m Harap Gunakan Script Ini Dengan Bijak Ya !!!
+\033[1;92m Harap Gunakan Script Ini Dengan Bijak Ya !!!
 \033[0;39m Kaga Subrek Channel Gw Auto CP Loh Akwkwkwk
 \033[0;34m Intinya Gw Rizky Maulana Tergans Dari Pada Kalian Ya awkwk
 \033[1;92m................\033[1;96m✬Recode : Revolution.ID✬\033[1;91m..............
